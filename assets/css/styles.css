@@ -2,20 +2,6 @@ body {
     background-color: lightgrey;
     background-image: url(../images/01-02-02_background-img.jpg);
 }
-p.intro {
-    font-size: 1.2em;
-    color: #2c3e50;
+p {
     font-weight: bold;
-    margin-bottom: 10px;
-}
-p.info {
-    font-size: 1em;
-    color: #2980b9;
-    margin-bottom: 10px;
-}
-p.note {
-    font-size: 0.95em;
-    color: #16a085;
-    font-style: italic;
-    margin-bottom: 20px;
 }
